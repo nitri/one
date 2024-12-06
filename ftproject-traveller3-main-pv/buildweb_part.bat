@@ -1,1 +1,0 @@
-start /high C:/ProgramData/cocos/editors/Creator/3.8.3/CocosCreator --project . --build "platform=web-mobile;debug=true;md5Cache=true;webOrientation=landscape;buildPath=F:/h5/%1/lvren"
